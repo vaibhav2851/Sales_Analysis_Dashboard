@@ -36,5 +36,5 @@ This Sales Analysis Dashboard is a Power BI project designed to provide a compre
 
 ## Data Source
 
-The project uses a sample sales dataset located in the `data_set` folder. You can replace it with your own data source.
+The project uses a sample sales dataset located on the https://www.kaggle.com/datasets/kyanyoga/sample-sales-data. You can replace it with your own data source.
 
